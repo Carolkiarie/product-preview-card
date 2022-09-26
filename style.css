@@ -59,17 +59,17 @@ body{
     
 
 }
-#container{
+ #container{
     display: grid;
      grid-template-columns: 1fr;
-    justify-items: center;
+    justify-items: center; 
 }
 #content{
     max-width: 100%;
     display: grid;
     grid-template-columns: 1fr 1fr;
     width: 30em;
-     margin: 10em; 
+     margin: 6em; 
      border-radius: 15px;
          
 }
